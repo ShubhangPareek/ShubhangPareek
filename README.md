@@ -1,10 +1,57 @@
-# 💫 About Me:
-👋 Hi there! I’m Shubhang Pareek, a passionate Software Developer and tech enthusiast who loves solving problems and building impactful projects. 🚀<br><br>💻 What I Do:<br>	•	Frontend Wizard: Crafting beautiful, responsive, and user-friendly interfaces with React.js, HTML, CSS, and JavaScript.<br>	•	Backend Architect: Developing robust APIs and scalable systems using Python, Node.js, and Django.<br>	•	Full-Stack Enthusiast: Bridging the gap between frontend and backend to deliver seamless user experiences.<br>	•	Data Explorer: Analyzing data and leveraging AI/ML tools to create smarter solutions.<br><br>🛠️ Tech Stack:<br>	•	Languages: Python, JavaScript, HTML, CSS<br>	•	Frameworks & Tools: React.js, Node.js, Flask, Django<br>	•	Databases: MongoDB, PostgreSQL<br>	•	APIs: REST, Google Speech-to-Text API<br>	•	Others: Git, FFmpeg<br><br>🌟 Notable Projects:<br>	•	YouTube Summarization Tool: Simplifies video content into concise text summaries using AI models.<br>	•	Attendance Management System: Automates attendance tracking with facial recognition.<br>	•	Expense Tracker: Helps users manage finances through a sleek and interactive app.<br>	•	Find them all here 👉 My Repositories<br><br>🚀 Why I Code:<br><br>I believe in the power of technology to make life easier and more exciting. Whether it’s automating mundane tasks or crafting engaging user experiences, I thrive on turning ideas into reality through code.<br><br>💡 Always learning, always growing! ✨<br><br>Feel free to customize this to make it uniquely yours! 🚀
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Shubhang+Pareek" alt="Typing SVG" /></a>
+
+B.Tech CSE | SRM Institute of Science and Technology('25)
+https://shubhangpareek.github.io/New_Portfolio/
+📍 Jaipur, India  
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shubhang-pareek-7631b0222/) 
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+About Me  
+I’m a tech enthusiast and builder passionate about Data Analytics, AI-powered applications, and IoT systems.  
+I love solving real-world problems with Python, AI/LLMs, and Data Visualization while exploring how Generative AI can transform productivity and decision-making.  
 
+
+Skills  
+- Languages: Python
+- Web: HTML, CSS 
+- Data Analytics & Visualization: Power BI, Excel  
+- Databases: MySQL, MongoDB  
+- AI & ML: OpenAI API, LangChain, LLMs, Prompt Engineering, Gen AI, Agentic AI  
+- Tools & Frameworks: VSCode, Jupyter Notebook, Streamlit, Gradio, Figma, GitHub, Web Scraping, n8n  
+
+
+Experience  
+Delhi Metro Rail Corporation (DMRC) – ED/IT Intern (Jun–Aug 2024) 
+- Built real-time dashboardsin Python, Power BI, and Dash to analyze Apache logs, improving system monitoring.  
+- Reduced resource utilization by 20% via optimized queries and data transformations.  
+- Designed a security monitoring system to flag suspicious user behavior in real-time.  
+
+Featured Projects  
+- Resume Optimizer Agent → Streamlit app using Mistral AI to tailor resumes, score them, and generate interview prep Q&A. [🔗 Repo](https://github.com/monit-jangir/resume-optimizer)  
+- UAV Fog Deployment Research → Optimizing UAV-based fog computing for critical rescue operations.
+- IoT Wheelchair Safety System → IoT-enabled monitoring + alerting for wheelchair safety.  
+
+
+
+2025 Goals  
+- Build 5–6 strong projects in AI  
+- Contribute to open-source GenAI tools 
+- Land my first Data/AI role in the industry  
+
+
+Let’s Connect!  
+<p align="center">
+  <a href="http://www.linkedin.com/in/monitkjangir">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge">
+  </a>
+  <a href="mailto:monit.j@outlook.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=for-the-badge">
+  </a>
+  <a href="https://github.com/monit-jangir">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github&style=for-the-badge">
+  </a>
+</p>
+
+
+
+![Thanks](https://i.imgur.com/LyHic3i.gif)
